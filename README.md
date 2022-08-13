@@ -1,8 +1,3 @@
-
-
-![Flowchart](https://github.com/Nandangonchikar/Intelligent-Home-Assistance-System/blob/main/projectChart.png?raw=true)
-
-
 Dependencies:
 Python 2
 urllib
@@ -17,3 +12,8 @@ MQ2 gas sensor
 Relay Module
 GSM module -SIM 908
 Rain sensor
+
+
+![Flowchart](https://github.com/Nandangonchikar/Intelligent-Home-Assistance-System/blob/main/projectChart.png?raw=true)
+
+
