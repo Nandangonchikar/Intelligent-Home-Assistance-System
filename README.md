@@ -1,5 +1,5 @@
 Dependencies:
-Python 2
+Python 2/n
 urllib
 gTTS
 Mqtt - Messaging protocol
