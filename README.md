@@ -1,6 +1,6 @@
 
 
-![Flowchart](https://github.com/Nandangonchikar/Intelligent-Home-Assistance-System-/blob/main/projectChart.png?raw=true)
+![Flowchart](https://github.com/Nandangonchikar/Intelligent-Home-Assistance-System/blob/main/projectChart.png?raw=true)
 
 
 Dependencies:
